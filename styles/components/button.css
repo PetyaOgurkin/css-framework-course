@@ -1,0 +1,31 @@
+.btn {
+    border: solid 2px var(--color-dark);
+    background-color: var(--color-light);
+    color: var(--color-dark);
+
+    font-size: var(--font-medium);
+    font-family: var(--font-family);
+    font-weight: bolder;
+    border-radius: 5px;
+    box-shadow: 0 0 5px var(--color-dark);
+    transition: box-shadow linear 0.2s;
+    cursor: pointer;
+    padding: 7px 15px;
+}
+
+.btn:hover {
+    box-shadow: 0 0 7px var(--color-dark);
+}
+
+.btn:active {
+    transition: none;
+    box-shadow: 0 0 10px var(--color-dark);
+}
+
+.btn-sm {
+    font-size: var(--font-small);
+}
+
+.btn-lg {
+    font-size: var(--font-large);
+}
