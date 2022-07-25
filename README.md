@@ -1,6 +1,10 @@
 # Видос-обучалка
 
-    https://www.youtube.com/watch?v=53mbT75FX7w
+-   https://www.youtube.com/watch?v=53mbT75FX7w
+    
+# Сайт из курса
+
+-   https://petyaogurkin.github.io/css-framework-course/
 
 # Список необходимых для защиты компонентов:
 
